@@ -1,0 +1,130 @@
+ div {
+//background: url(https://communityimpact.com/wp-content/uploads/2019/01/McKalla-Renderings-10-Stadium-Bowl.jpg);
+filter: grayscale(50%);
+width: 100vw;
+height: 900px;
+  position: absolute;
+  top: 0; left: 0
+}
+h1  {
+  margin: 1px 0px 1px 1px;
+  border: 1pt solid black;
+  text-align: center;
+  background: url(https://www.ytgraphics.com/wp-content/uploads/2017/03/rainbow-six-siege-battlefield-1.jpg);
+  color: powderblue;
+  
+  }
+
+select{
+  margin: 100px 100px 40px 440px;
+  background-color: grey;
+  color: white;
+  width: 30%;
+}
+#real{
+  position: absolute;
+  left: 280px; 
+  top: 419px;
+}
+
+#man {
+   position: absolute;
+  left: 852px; 
+  bottom: 730px
+}
+#che {
+  position: absolute;
+  left: 360px; 
+  bottom: 730px
+}
+#frame {
+  position:absolute;
+  width:610px; 
+  height: 400px;
+    top: 200px; 
+  left: 340px
+}
+#bar{ 
+  position:absolute;
+  left: 960px;
+  top: 200px;
+
+}
+
+#psg {
+  position: absolute;
+  left: 280px;
+  top: 360px;
+}
+
+#liv {
+  position: absolute; 
+  left: 280px;
+  top: 200px
+}
+#okc{
+  position: absolute;
+  left: 280px;
+  top: 280px;
+}
+#mil{
+  position: absolute;
+  left: 965px;
+  top: 275px;
+  
+}
+
+#bay {
+  position: absolute;
+  top: 355px;
+  left: 960px;
+}
+#okc{
+  position: absolute;
+  left: 280px;
+  top: 280px;
+}
+
+#la {
+  position: absolute;
+  top: 419px;
+  left: 960px;
+  
+}
+
+#cska{
+  position:absolute;
+  left: 280px;
+  top: 490px;
+}
+a {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  color: powderblue;
+  font-size: 17px;
+    
+}
+
+#char{
+  position: absolute;
+  right: 267px;
+  bottom: 292px;
+}
+
+#wolf{
+  position: absolute;
+  bottom: 290px;
+  left: 278px;
+}
+
+#fox{
+  position: absolute;
+  top: 490px;
+  right: 267px;
+}
+body{
+  background:url(https://communityimpact.com/wp-content/uploads/2019/01/McKalla-Renderings-10-Stadium-Bowl.jpg);
+  background-repeat: repeat-y;
+  background-size: cover;
+}
